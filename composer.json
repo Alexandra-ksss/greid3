@@ -1,0 +1,13 @@
+{
+    "autoload": {
+        "psr-4": {
+            "App\\": "classes/"
+        }
+    },
+
+    "require": {
+        "phpoffice/phpspreadsheet": "^1.9",
+        "wheatleywl/bx-iblock-helpers": "^1.0.0",
+        "nesbot/carbon": "^2.58"
+    }
+}
